@@ -1,0 +1,18 @@
+{
+  "name": "ai-generate-code",
+  "version": "1.0.0",
+  "description": "generate code by ai",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node ./src/index.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "openai": "^4.73.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
